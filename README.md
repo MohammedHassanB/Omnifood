@@ -6,4 +6,4 @@ Demo:https://mohammedhassanb.github.io/Omnifood/
 # the project was implemented through 3 phases:
 # first, building the project using HTML&CSS.
 # second, implement different media queries to make it responsive to different screen sizes.
-# third, optimize the web page and fix bugs for different browsers.
+# third, optimize the web page and fix bugs for different browsers using javascript.
