@@ -10,4 +10,4 @@ Demo:https://mohammedhassanb.github.io/Omnifood/
 #
 #
 # there was an optamization for smooth scrolling but if it didn`t work just try to enable smooth scrolling in your browser.
-# to enable smooth scrolling type: your web browser name;//flags and press enter the search for smooth scrolling and enable it
+# to enable smooth scrolling type: your web browser name;//flags and press enter then search for smooth scrolling and enable it
